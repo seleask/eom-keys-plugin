@@ -1,0 +1,8 @@
+[Plugin]
+Module=eom_keys
+IAge=2
+Loader=python3
+Name=Eye of MATE Keys (for Eye of Gnome)
+Description=Restore the sane eom keys for next/previous, and q to exit
+Authors=Sam Leask
+Copyright=Copyright © 2022 Creative Commons
